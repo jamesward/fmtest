@@ -1,0 +1,27 @@
+<report>
+  <scripts>
+    <script name="/home/jamesw/projects/fmtest/lib/src/main/flex/fmtest/Main.mxml" mod="1293391323000" size="1063" optimizedsize="761">
+      <def id="fmtest:Main" />
+      <pre id="spark.components:Group" />
+      <dep id="mx.core:IFlexModuleFactory" />
+      <dep id="spark.components:Label" />
+      <dep id="AS3" />
+      <dep id="mx.core:mx_internal" />
+    </script>
+    <script name="_c983fb203031d1ff6e49dcfa071b78133bed7ecccb3b013814dc1b844af276dc_flash_display_Sprite.as" mod="1293391505644" size="1044" optimizedsize="511">
+      <def id="_c983fb203031d1ff6e49dcfa071b78133bed7ecccb3b013814dc1b844af276dc_flash_display_Sprite" />
+      <pre id="flash.display:Sprite" />
+      <dep id="flash.system:Security" />
+      <dep id="AS3" />
+    </script>
+  </scripts>
+  <external-defs>
+    <ext id="AS3" />
+    <ext id="mx.core:mx_internal" />
+    <ext id="flash.system:Security" />
+    <ext id="spark.components:Label" />
+    <ext id="mx.core:IFlexModuleFactory" />
+    <ext id="spark.components:Group" />
+    <ext id="flash.display:Sprite" />
+  </external-defs>
+</report>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/2.5">
+  <id>fmtest</id>
+  <filename>fmtest</filename>
+  <name>fmtest</name>
+  <versionNumber>1.0.0</versionNumber>
+  <versionLabel>1.0-20101226.192414</versionLabel>
+  <initialWindow>
+    <content>fmtest.swf</content>
+    <width>800</width>
+    <height>600</height>
+  </initialWindow>
+</application>

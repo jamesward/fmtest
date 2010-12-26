@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+  <swf size="2736" compressedSize="1418">
+
+    <!-- Header data (SWF attributes, product info, markers, etc.) -->
+    <headerData totalSize="411">
+      <data type="metaData" size="292"/>
+      <data type="enableDebugger" size="33"/>
+      <data type="productInfo" size="28"/>
+      <data type="swfHeader" size="21"/>
+      <data type="debugID" size="18"/>
+      <data type="fileAttributes" size="6"/>
+      <data type="scriptLimits" size="6"/>
+      <data type="backgroundColor" size="5"/>
+      <data type="endMarker" size="2"/>
+    </headerData>
+
+    <!-- Cumulative frame size summary. -->
+    <frames totalSize="2325">
+      <frame size="2325" frame="1"/>
+    </frames>
+
+    <!-- Actionscript code and constant data. -->
+    <actionScript totalSize="2226">
+      <abc name="_c983fb203031d1ff6e49dcfa071b78133bed7ecccb3b013814dc1b844af276dc_flash_display_Sprite" size="1141" frame="1"/>
+      <abc name="fmtest/Main" size="1085" frame="1"/>
+    </actionScript>
+
+    <!-- Additional frame tags (symbolClass, exportAssets, showFrame, etc). -->
+    <frameData totalSize="99">
+      <tag type="symbolClass" size="97" frame="1"/>
+      <tag type="showFrame" size="2" frame="1"/>
+    </frameData>
+  </swf>
+</report>
